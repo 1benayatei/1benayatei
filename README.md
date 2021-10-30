@@ -4,4 +4,7 @@
 - 🌱 I’m currently learning Clean architect
 - 👯 I’m looking to collaborate on Google.com
 - 💬 Ask me about php, laravel, java, spring, nodejs, nestjs
-- 📫 How to reach me: (https://www.linkedin.com/in/bahman-enayatei)](Linkedin)
+
+
+[![TW](https://img.shields.io/badge/twitter-4daedb.svg?style=for-the-badge)](https://twitter.com/benayatei)
+[![TW](https://img.shields.io/badge/linked-in-007cb5.svg?style=for-the-badge)](https://www.linkedin.com/in/bahman-enayatei/)
