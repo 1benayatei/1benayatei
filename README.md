@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**1benayatei/1benayatei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi, My name is Bahman. 👋
 
 - 🔭 I’m currently working on PhonePay
 - 🌱 I’m currently learning Clean architect
